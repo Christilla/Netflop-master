@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<netflop>
+
+    <series id="ser">
+
+        <serie id="1">
+
+            <name>Sense8</name>
+
+            <image>https://ia.media-imdb.com/images/M/MV5BMTU3OTQwOTY2Ml5BMl5BanBnXkFtZTgwMjIzMjYxMjI@._V1_UX182_CR0,0,182,268_AL_.jpg</image>
+
+            <annee>2015</annee>
+
+            <realisateur>The Wachowskis, J. Michael Straczynski</realisateur>
+
+            <description>Huit individus éparpillés aux quatre coins du monde sont connectés par une soudaine et violente vision. Désormais liés, ils se retrouvent capables du jour au lendemain de se voir, de se sentir, de s'entendre et de se parler comme s'ils étaient au même endroit, et ainsi accéder aux plus sombres secrets des uns et des autres. Les huit doivent dès lors s'adapter à ce nouveau don, mais aussi comprendre le pourquoi du comment. Fuyant une organisation qui veut les capturer, les tuer ou faire d'eux des cobayes, ils cherchent quelles conséquences ce bouleversement pourrait avoir sur l'humanité.</description>
+
+            <lien type="allocine">http://www.allocine.fr/series/ficheserie_gen_cserie=11498.html</lien>
+
+            <lien type="imbd">http://www.imdb.com/title/tt2431438/?ref_=nv_sr_1</lien>
+
+        </serie>
+
+        <serie id="2">
+
+            <name>TheWalkingDead</name>
+
+            <image>https://ia.media-imdb.com/images/M/MV5BMzNkMWNmZGUtNWFlZi00MTYwLWIwMjQtOGViN2QzNmI2MWYwXkEyXkFqcGdeQXVyODA1MDc5NjM@._V1_UY268_CR0,0,182,268_AL_.jpg</image>
+
+            <annee>2010</annee>
+
+            <realisateur>Robert Kirkman, Glen Mazzara</realisateur>
+
+            <description>Après une apocalypse ayant transformé la quasi-totalité de la population en zombies, un groupe d'hommes et de femmes mené par l'officier Rick Grimes tente de survivre... Ensemble, ils vont devoir tant bien que mal faire face à ce nouveau monde devenu méconnaissable, à travers leur périple dans le Sud profond des États-Unis.</description>
+
+            <lien type="allocine">http://www.allocine.fr/series/ficheserie_gen_cserie=7330.html</lien>
+
+            <lien type="imbd">http://www.imdb.com/title/tt1520211/?ref_=nv_sr_1</lien>
+
+        </serie>
+
+        <serie id="3">
+
+            <name>RickAndMorty</name>
+
+            <image>https://ia.media-imdb.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY268_CR2,0,182,268_AL_.jpg</image>
+
+            <annee>2014</annee>
+
+            <realisateur>Justin Roiland, Dan Harmon</realisateur>
+
+            <description>Un brillant inventeur et son petit fils un peu à l'Ouest partent à l'aventure...</description>
+
+            <lien type="allocine">http://www.allocine.fr/series/ficheserie_gen_cserie=11561.html</lien>
+
+            <lien type="imbd">http://www.imdb.com/title/tt2861424/?ref_=nv_sr_1</lien>
+
+        </serie>
+
+        <serie id="4">
+
+            <name>SiliconValley</name>
+
+            <image>https://ia.media-imdb.com/images/M/MV5BMTAxNTEyODE5MTNeQTJeQWpwZ15BbWU4MDE3MjM3ODQz._V1_UX182_CR0,0,182,268_AL_.jpg</image>
+
+            <annee>2014</annee>
+
+            <realisateur>Dave Krinsky, Alec Berg</realisateur>
+
+            <description>Dans la Silicon Valley d'aujourd'hui, les personnes les plus qualifiées pour réussir ne sont pas forcément celles les plus qualifiées pour savoir comment le gérer...</description>
+
+            <lien type="allocine">http://www.allocine.fr/series/ficheserie_gen_cserie=11701.html</lien>
+
+            <lien type="imbd">http://www.imdb.com/title/tt2575988/?ref_=nv_sr_1</lien>
+
+        </serie>
+
+    </series>
+
+    <mangas id="mga">
+
+        <manga id="1">
+
+            <name>TokyoGhoul</name>
+
+            <image>https://ia.media-imdb.com/images/M/MV5BMTY1MTg1MTcxNl5BMl5BanBnXkFtZTcwMTI4ODUzMQ@@._V1_UY268_CR17,0,182,268_AL_.jpg</image>
+
+            <annee>2014</annee>
+
+            <realisateur></realisateur>
+
+            <description></description>
+
+            <lien type="allocine"></lien>
+
+            <lien type="imbd"></lien>
+
+        </manga>
+
+        <manga id="2">
+
+            <name>AttaqueDesTitans</name>
+
+            <image>https://ia.media-imdb.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_UX182_CR0,0,182,268_AL_.jpg</image>
+
+            <annee>2013</annee>
+
+            <realisateur>Yasuko Kobayashi</realisateur>
+
+            <description>Dans un monde ravagé par des titans mangeurs d’homme depuis plus d’un siècle, les rares survivants de l’Humanité n’ont d’autre choix pour survivre que de se barricader dans une cité-forteresse. Le jeune Eren, témoin de la mort de sa mère dévorée par un titan, n’a qu’un rêve : entrer dans le corps d’élite chargé de découvrir l’origine des Titans et les annihiler jusqu’au dernier…</description>
+
+            <lien type="allocine">http://www.allocine.fr/series/ficheserie_gen_cserie=17425.html</lien>
+
+            <lien type="imbd">http://www.imdb.com/title/tt2560140/?ref_=nv_sr_1</lien>
+
+        </manga>
+
+        <manga id="3">
+
+            <name>Highschool of the dead</name>
+
+            <image>https://ia.media-imdb.com/images/M/MV5BM2IzYTg0OGEtZDg3NS00ZWU5LWE4MmEtMDI3ZjExYzdmNTRkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg</image>
+
+            <annee>2010</annee>
+
+            <realisateur>Gakuen Mokushiroku</realisateur>
+
+            <description> High school students are overwhelmed with the start of the zombie apocalypse. </description>
+
+            <lien type="allocine"></lien>
+
+            <lien type="imbd">http://www.imdb.com/title/tt1685401/?ref_=nv_sr_1</lien>
+
+        </manga>
+
+        <manga id="4">
+
+            <name>Naruto: Shippûden</name>
+
+            <image>https://ia.media-imdb.com/images/M/MV5BMGQ1N2YwYjAtZDE5Zi00MDlmLTkyMjEtYTY5MTE5ZTE5MGQ3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</image>
+
+            <annee>2007</annee>
+
+            <realisateur> Liam O'Brien (I)</realisateur>
+
+            <description>Après une formation de 2 ans et demi avec Jiraya, Naruto, de retour à Konoha, retrouve ses amis avec lesquels il reforme l'équipe d'antan. Il leur faut faire face à une terrible menace qui pèse sur le monde entier...</description>
+
+            <lien type="allocine">http://www.allocine.fr/series/ficheserie_gen_cserie=3716.html</lien>
+
+            <lien type="imbd">http://www.imdb.com/title/tt0988824/?ref_=nv_sr_1</lien>
+
+        </manga>
+
+    </mangas>
+
+    <films id="flm">
+
+        <film id="1">
+
+            <name>LasVegasParano</name>
+
+            <image>https://ia.media-imdb.com/images/M/MV5BNjA2ZDY3ZjYtZmNiMC00MDU5LTgxMWEtNzk1YmI3NzdkMTU0XkEyXkFqcGdeQXVyNjQyMjcwNDM@._V1_UX182_CR0,0,182,268_AL_.jpg</image>
+
+            <realisateur>Terry Gilliam</realisateur>
+
+            <annee>1998 </annee>
+
+            <description>A travers l'épopée à la fois comique et horrible vers Las Vegas du journaliste Raoul Duke et de son énorme avocat,                                le Dr. Gonzo, évocation caustique et brillante de l'année 1971 aux Etats-Unis,                                 pendant laquelle les espoirs des années soixante et le fameux rêve américain                                 furent balayés pour laisser la place à un cynisme plus politiquement correct. </description>
+
+            <lien type="allocine">http://www.allocine.fr/film/fichefilm_gen_cfilm=18457.html</lien>
+
+            <lien type="imbd">http://www.imdb.com/title/tt0120669/?ref_=nv_sr_1</lien>
+
+        </film>
+
+        <film id="2">
+
+            <name>TombRaider</name>
+
+            <image>https://ia.media-imdb.com/images/M/MV5BOTY4NDcyZGQtYmVlNy00ODgwLTljYTMtYzQ2OTE3NDhjODMwXkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_UX182_CR0,0,182,268_AL_.jpg</image>
+
+            <realisateur>Roar Uthaug </realisateur>
+
+            <annee>14 mars 2018 </annee>
+
+            <description>Lara Croft, 21 ans, n'a ni projet, ni ambition :                                fille d'un explorateur excentrique porté disparu depuis sept ans,                                 cette jeune femme rebelle et indépendante refuse de reprendre l'empire de son père.                                 Convaincue qu'il n'est pas mort,                                 elle met le cap sur la destination où son père a été vu pour la dernière fois :                                la tombe légendaire d'une île mythique au large du Japon.                                Mais le voyage se révèle des plus périlleux et il lui faudra affronter d'innombrables ennemis                                et repousser ses propres limites pour devenir "Tomb Raider".</description>
+
+            <lien type="allocine">http://www.allocine.fr/film/fichefilm_gen_cfilm=142913.html</lien>
+
+            <lien type="imbd">http://www.imdb.com/title/tt1365519/?ref_=nv_sr_1</lien>
+
+        </film>
+
+        <film id="3">
+
+            <name>JeSuisUneLégende</name>
+
+            <image>https://ia.media-imdb.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg</image>
+
+            <realisateur>Francis Lawrence </realisateur>
+
+            <annee>19 décembre 2007</annee>
+
+            <description>Robert Neville était un savant de haut niveau et de réputation mondiale,                            mais il en aurait fallu plus pour stopper les ravages de cet incurable et terrifiant virus d'origine humaine.                            Mystérieusement immunisé contre le mal,                            Neville est aujourd'hui le dernier homme à hanter les ruines de New York.                             Peut-être le dernier homme sur Terre...                             Depuis trois ans, il diffuse chaque jour des messages radio dans le fol espoir de trouver d'autres survivants.                             Nul n'a encore répondu.                            Mais Neville n'est pas seul. Des mutants, victimes de cette peste moderne - on les appelle les "Infectés" - rôdent dans les ténèbres...                             observent ses moindres gestes, guettent sa première erreur.                            Devenu l'ultime espoir de l'humanité, Neville se consacre tout entier à sa mission :                            venir à bout du virus, en annuler les terribles effets en se servant de son propre sang.                            Ses innombrables ennemis lui en laisseront-ils le temps ? Le compte à rebours touche à sa fin.... </description>
+
+            <lien type="allocine">http://www.allocine.fr/film/fichefilm_gen_cfilm=105557.html</lien>
+
+            <lien type="imbd">http://www.imdb.com/title/tt0480249/?ref_=nv_sr_1</lien>
+
+        </film>
+
+        <film id="4">
+
+            <name>Interstellar</name>
+
+            <image>https://ia.media-imdb.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg</image>
+
+            <realisateur>Christopher Nolan </realisateur>
+
+            <annee>5 novembre 2014</annee>
+
+            <description> Le film raconte les aventures d’un groupe d’explorateurs qui utilisent une faille                            récemment découverte dans l’espace-temps afin de repousser les limites humaines                             et partir à la conquête des distances astronomiques dans un voyage interstellaire. </description>
+
+            <lien type="allocine">http://www.allocine.fr/film/fichefilm_gen_cfilm=114782.html</lien>
+
+            <lien type="imbd">http://www.imdb.com/title/tt0816692/?ref_=nv_sr_2</lien>
+
+        </film>
+
+    </films>
+
+</netflop>
+
+

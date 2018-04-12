@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+ <head>
+  <title>Formulaire de contact</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/normalize.css">
+  <link rel="stylesheet" href="./css/style.css">
+
+ </head>
+ <body>
+  <nav>
+   <ul>
+    <li><a href="index.html" data-link="home">Accueil</a></li>
+    <li><a href="index.html#films" data-link="films-content" >Films</a></li>
+    <li><a href="index.html#series" data-link="series-content">Séries</a></li>
+    <li><a href="index.html#mangas" data-link="manga-content">Mangas</a></li>  
+    <li><a href="form.html" data-link="manga-content" class="active">Contact</a></li>  
+   </ul>           
+  </nav>
+
+  <section class="bg-home">
+   <h1>Netflop</h1>
+  </section>
+
+
+  <form id="form" method="post" action="form.js">
+
+
+   <fieldset id="contact">
+
+    <legend>Formulaire de contact</legend> 
+
+
+    <label for="nom">Votre nom </label>
+    <input type="text" name="nom" id="nom"  required/>
+
+
+    <label for="prenom">Votre prénom </label>
+    <input type="text" name="prenom" id="prenom"  required/>
+
+    <label for="pass">Votre mot de passe :
+     <input type="password" name="pass" id="password"  required/> </label>
+
+    <label for="pass">Vérifier votre mot de passe :</label>
+    <input type="password" name="pass" id="password_verif"  required/>
+
+   </fieldset>
+
+   <fieldset >
+ <input type="checkbox" name="Connexion" id="connexion" /> <label for="connexion">Restez connecté? </label> 
+    <br />
+    Sexe:
+    <span>
+     <input type="radio" name="homme" value="homme" id="homme" /> <label for="sexe">Homme</label>
+
+     <input type="radio" name="femme" value="femme" id="femme" /> <label for="sexe">Femme</label>
+
+    </span>
+
+    <div id="lieu_naissance">
+     <label for="date">Votre date de naissance </label>
+     <input type="date" />
+
+     <label for="ville">Veuillez sélectionner votre ville </label> 
+
+     <select name="ville" id="ville">
+
+      <option value="Montpellier">Montpellier</option>
+
+      <option value="Beziers">Beziers</option>
+
+      <option value="Lunel">Lunel</option>
+
+      <option value="Vias">Vias</option>
+
+     </select>
+    </div>
+   </fieldset>
+
+   <input id="submit" type="submit" value="Envoyer" />
+
+  </form>
+
+
+
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+     <script src="form.js"></script>
+ </body>
+</html>
